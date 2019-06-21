@@ -1,5 +1,0 @@
-[imageservers]
-localhost ansible_connection=local
-
-[benchservers]
-localhost ansible_connection=local
