@@ -1,0 +1,3 @@
+- include: 00_devel.yml
+- include: 01_base.yml
+- include: 04_deploy.yml

@@ -1,0 +1,7 @@
+- include: 00_devel.yml
+- include: 01_base.yml
+- include: 02_xbuild.yml
+- include: 03_mysql.yml
+- include: 03_nginx.yml
+- include: 04_deploy.yml
+
